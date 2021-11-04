@@ -1,0 +1,7 @@
+C:\Users\TREINAMENTO28\Desktop\youtube\02Conceitos\02Conceitos\bin\Debug\02Conceitos.exe.config
+C:\Users\TREINAMENTO28\Desktop\youtube\02Conceitos\02Conceitos\bin\Debug\02Conceitos.exe
+C:\Users\TREINAMENTO28\Desktop\youtube\02Conceitos\02Conceitos\bin\Debug\02Conceitos.pdb
+C:\Users\TREINAMENTO28\Desktop\youtube\02Conceitos\02Conceitos\obj\Debug\02Conceitos.csproj.AssemblyReference.cache
+C:\Users\TREINAMENTO28\Desktop\youtube\02Conceitos\02Conceitos\obj\Debug\02Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\TREINAMENTO28\Desktop\youtube\02Conceitos\02Conceitos\obj\Debug\02Conceitos.exe
+C:\Users\TREINAMENTO28\Desktop\youtube\02Conceitos\02Conceitos\obj\Debug\02Conceitos.pdb
